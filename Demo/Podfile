@@ -1,0 +1,8 @@
+
+source "https://github.com/daniel1of1/CPRSpecs.git"
+
+target 'Demo' do
+  use_frameworks!
+  pod 'Foo'
+  pod 'Bar'
+end
